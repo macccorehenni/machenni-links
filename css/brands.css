@@ -624,3 +624,7 @@
     --button-text: #3a3b3d;
     --button-background: #98efb6;
 }
+/* Art Commision Rules */
+.button-art-commision-rules {
+    --button-text: #ffffff;
+    --button-background: #2457f5; }
